@@ -8,6 +8,5 @@ The dataset contained information about various concerts held during different t
 https://github.com/CharlesEdosa/Analysis_Portfolio/blob/9033c84d75c028e0dd7fc4194626a4c23df7c316/taylor%20train%20data%20ex.csv
 
 [Taylor Swift Report]
-https://github.com/CharlesEdosa/Analysis_Portfolio/blob/78c48748945df676ac49e8d4762c851bf4db83a2/Taylor_swift%20report%20and%20visualisations.pdf
-
+Taylor_Swift report .pdf
 
