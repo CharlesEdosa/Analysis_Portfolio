@@ -5,7 +5,7 @@ The portfolio comprises a range of data analysis projects. Each report provides 
 The dataset contained information about various concerts held during different tours, including details such as the city and country where the concert took place, the venue, the opening act(s) performing, the attendance (number of tickets sold and available), the revenue generated, and the name of the tour.
 ### Files of the Taylor Swift Concert
 [Taylor Swift concert data)
-https://github.com/CharlesEdosa/Analysis_Portfolio/blob/9033c84d75c028e0dd7fc4194626a4c23df7c316/taylor%20train%20data%20ex.csv
+taylor train data ex.csv
 
 [Taylor Swift Report]
 Taylor_Swift report .pdf
