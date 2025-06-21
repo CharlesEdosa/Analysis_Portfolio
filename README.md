@@ -11,7 +11,7 @@ taylor train data ex.csv
 Taylor_Swift report .pdf
 
 ### Project two (NYC_AirBnB)
-This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions. I cleaned the data by removing duplicates, blanks and other outliers that could impact the result of this analysis. The Vlookup function, pivot tables and other excel functions have been utilized to answer key questions.
+This dataset describes the listing activity and metrics in NYC. The data file included all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions. I cleaned the data by removing duplicates, blanks and other outliers that could impact the result of this analysis. The Vlookup function, pivot tables and other excel functions have been utilized to answer key questions.
 
 
 
