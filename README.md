@@ -20,6 +20,9 @@ Host activity and availability and
 
 Price patterns
 
+### The report for the NYC Airbnb
+NYC Report_pdf.pdf
+
 
 
 
