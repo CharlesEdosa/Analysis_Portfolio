@@ -23,8 +23,10 @@ Price patterns
 ### The report for the NYC Airbnb
 NYC Report_pdf.pdf
 
-### SQL Project (Enhancing Donor Engagement and Contributions)
+### Project 3; SQL project (Enhancing Donor Engagement and Contributions)
 The dataset contains information about donors and their donations. Several pieces of information are provided, including the donors’ gender, state, occupation, donation frequency, and more. The data was cleaned and analyzed using SQL, and visualizations were created using Tableau. The recommendations provided aim to improve donations from less active donors and to increase contributions from certain job fields that are not donating as much as their counterparts.
 
+### Project report and presentation
+https://github.com/CharlesEdosa/Analysis_Portfolio/blob/433aefae99519e9a2b9eb51883454a71c56739c4/Donation%20Presentation1%20sub(2).pdf
 
 
